@@ -1,12 +1,18 @@
-# who-life-expectancy-prediction
-Stacking Ensemble for Global Life Expectancy  Prediction | WHO GHO Dataset | Beats SOTA R²=0.9423  with R²=0.9873 | GroupKFold CV | SHAP Analysis
-machine-learning
-life-expectancy
-who-dataset
-stacking-ensemble
-xgboost
-lightgbm
-shap
-healthcare
-global-health
-python
+# WHO Global Life Expectancy Prediction
+
+Machine learning framework for predicting 
+global life expectancy using WHO GHO dataset.
+
+## Results
+- Stacking Ensemble R² = 0.9873
+- MAE = 0.7698 years  
+- RMSE = 1.0873 years
+- Beats SOTA by 4.76%
+
+## Dataset
+WHO Global Health Observatory
+193 countries | 2000-2015
+
+## Author
+Sandesh Kumar
+Sukkur IBA University
