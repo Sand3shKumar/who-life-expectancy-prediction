@@ -58,7 +58,7 @@ who-life-expectancy-prediction/
 ## Installation
 
 ```bash
-git clone https://github.com/sandeshkumar/who-life-expectancy-prediction.git
+git clone https://github.com/Sand3shKumar/who-life-expectancy-prediction.git
 cd who-life-expectancy-prediction
 pip install -r requirements.txt
 ```
@@ -90,7 +90,7 @@ If you use this code or findings in your research, please cite:
              for Global Life Expectancy Prediction},
   year    = {2026},
   institution = {Sukkur Institute of Business Administration},
-  url     = {https://github.com/sandeshkumar/who-life-expectancy-prediction}
+  url     = {https://github.com/Sand3shKumar/who-life-expectancy-prediction}
 }
 ```
 
